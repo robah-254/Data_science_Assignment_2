@@ -12,7 +12,7 @@
 
 ### Data Enrichment
 
-- A new column (discount percentage**) was added. The discount value was calculated using (old price - current price) / old price * 100.
+- A new column (**discount percentage**) was added. The discount value was calculated using (old price - current price) / old price * 100.
 
 - New columns were also created, where:
 
